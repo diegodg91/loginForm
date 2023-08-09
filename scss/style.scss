@@ -1,0 +1,19 @@
+$color-green: hsl(154, 59%, 51%);
+$color-red: hsl(0, 100%, 74%);
+$color-blue: hsl(228, 45%, 44%);
+
+$color-darkBlue:hsl(249, 10%, 26%);
+$color-grayishBlue:hsl(246, 25%, 77%);
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:$color-darkBlue;
+    font-family: 'Poppins', sans-serif;
+}

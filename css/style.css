@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(249, 10%, 26%);
+  font-family: "Poppins", sans-serif;
+}/*# sourceMappingURL=style.css.map */
